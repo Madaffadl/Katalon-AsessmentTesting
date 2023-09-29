@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Detail</name>
+   <tag></tag>
+   <elementGuidId>ac302f58-ff4b-469b-bd06-c9db682fc20d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='btndetail'])[11]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(11) > td:nth-of-type(6) > #btndetail</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>db0c301e-32cb-43dd-967f-658645956c8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btndetail</value>
+      <webElementGuid>1f0858d3-f5c8-440b-b96c-54363a84454e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-sm me-2 btn-three</value>
+      <webElementGuid>0bc78abb-5789-4c0b-9cb0-896023f32522</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Detail</value>
+      <webElementGuid>368535fd-6e54-418d-bd67-279f8b84757d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;card pt-2&quot;]/div[@class=&quot;card-body&quot;]/table[@class=&quot;table table-bordered&quot;]/tbody[1]/tr[11]/td[6]/button[@id=&quot;btndetail&quot;]</value>
+      <webElementGuid>53f29c9a-39b0-4c54-99c7-9e63748387ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@id='btndetail'])[11]</value>
+      <webElementGuid>a5b504f3-1546-4cb2-b66f-a6c8a0fac5ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/table/tbody/tr[11]/td[6]/button[3]</value>
+      <webElementGuid>6057b1a2-1e5f-43bc-b3ca-8462b6f85405</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[11]/following::button[1]</value>
+      <webElementGuid>ff8cf891-33d6-4efd-af48-675271a538d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[11]/following::button[2]</value>
+      <webElementGuid>e014b8fc-eefc-44a5-aa0f-61c881fbee9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[11]/td[6]/button[3]</value>
+      <webElementGuid>7f26a929-fe9a-4c0d-ae83-36a2c714530e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btndetail' and (text() = 'Detail' or . = 'Detail')]</value>
+      <webElementGuid>4113d5bd-8a74-40b2-9ba9-b950fad0c330</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
